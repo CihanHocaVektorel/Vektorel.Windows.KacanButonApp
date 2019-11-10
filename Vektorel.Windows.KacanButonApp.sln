@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.Windows.KacanButonApp", "Vektorel.Windows.KacanButonApp\Vektorel.Windows.KacanButonApp.csproj", "{481C33F0-5A68-4581-963C-0DDABC0BFD74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.Windows.VeriTasimaApp", "Vektorel.Windows.VeriTasimaApp\Vektorel.Windows.VeriTasimaApp.csproj", "{74D5D245-C01D-4608-9B91-39453E12AF9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481C33F0-5A68-4581-963C-0DDABC0BFD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481C33F0-5A68-4581-963C-0DDABC0BFD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481C33F0-5A68-4581-963C-0DDABC0BFD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481C33F0-5A68-4581-963C-0DDABC0BFD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D5D245-C01D-4608-9B91-39453E12AF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D5D245-C01D-4608-9B91-39453E12AF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D5D245-C01D-4608-9B91-39453E12AF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D5D245-C01D-4608-9B91-39453E12AF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01BDD2FA-458B-4CDE-B214-0693BA786AD1}
+	EndGlobalSection
+EndGlobal
